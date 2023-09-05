@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am André 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-lac/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=andrelac963&theme=blue-green)
 
